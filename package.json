@@ -1,5 +1,5 @@
 {
-  "name": "aione-lynx-module",
+  "name": "aionelynx-module-main",
   "mainEntryFile": "./src/main.ts",
   "rendererEntryFile": "./src/renderer.ts",
   "version": "1.0.0",
