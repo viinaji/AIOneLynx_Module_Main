@@ -1,0 +1,11 @@
+{
+  "name": "Offline AI's Container",
+  "description": "Contain Audio, Image, Text generation WebUI's with full arguments and flags",
+  "publishDate": "2024-06-10",
+  "requireAppBuild": 5,
+  "version": "1.0.0",
+  "updateDate": "2024-06-11",
+  "changeLog": "New Card:\nAutomatic1111\n\nBug Fixes:\nLSHQQYTIGER arguments adjustment",
+  "category": "Offline",
+  "logoUrl": "https://raw.githubusercontent.com/KindaBrazy/AIOne-Lynx/master/assets/icon.png"
+}
